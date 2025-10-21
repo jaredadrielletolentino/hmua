@@ -40,7 +40,7 @@ const Contact = () => {
               
               <div className="space-y-4">
                 <div className="flex items-start space-x-3">
-                  <Mail className="w-5 h-5 text-accent mt-1" />
+                  <Mail className="w-5 h-5 text-accent mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-medium text-gray-900">Email</p>
                     <p className="text-gray-600">{CONTACT_INFO.email}</p>
@@ -48,7 +48,7 @@ const Contact = () => {
                 </div>
                 
                 <div className="flex items-start space-x-3">
-                  <Phone className="w-5 h-5 text-accent mt-1" />
+                  <Phone className="w-5 h-5 text-accent mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-medium text-gray-900">Phone</p>
                     <p className="text-gray-600">{CONTACT_INFO.phone}</p>
@@ -56,13 +56,15 @@ const Contact = () => {
                 </div>
                 
                 <div className="flex items-start space-x-3">
-                  <MapPin className="w-5 h-5 text-accent mt-1" />
+                  <MapPin className="w-5 h-5 text-accent mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-medium text-gray-900">Service Location & Travel</p>
-                    <p className="text-gray-600">Available for appointments in your area
-                        I provide professional hair and makeup services within Metro Manila and the surrounding areas.
-                        For clients based in Las Piñas City, transportation is free of charge.
-                        For bookings outside Las Piñas, a transportation fee will apply, depending on the location.✨
+                    <p className="text-gray-600 text-sm">
+                      I provide professional hair and makeup services within Metro Manila and surrounding areas.
+                      <br /><br />
+                      <span className="font-semibold">Las Piñas City:</span> Free transportation
+                      <br />
+                      <span className="font-semibold">Outside Las Piñas:</span> Transportation fee applies
                     </p>
                   </div>
                 </div>
@@ -117,7 +119,7 @@ const Contact = () => {
                     value={formData.subject}
                     onChange={handleChange}
                     required
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-secondary focus:border-transparent transition-colors form-input"
+                    className="w-full px-4-py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-secondary focus:border-transparent transition-colors form-input"
                     placeholder="What is this regarding?"
                   />
                 </div>
