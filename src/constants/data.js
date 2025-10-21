@@ -1,101 +1,101 @@
 export const PORTFOLIO_ITEMS = [
   {
     id: 1,
-    title: "18th Birthday",
-    description: "Soft, romantic makeup perfect for your special day. This look features soft neutral tones, flawless base, and delicate highlighting to enhance the bride's natural beauty.",
+    title: "🎂 18th Birthday - Dennie",
+    description: "A soft and youthful glam for Dennie’s 18th — fresh, glowing, and natural, bringing out her sweet and radiant beauty on her special milestone. ✨",
     image: "/portfolio/18th-Bday.JPG",
     category: "Birthday",
-    date: "2024-01-15",
+    date: "2025-01-15",
     client: "AINA"
   },
   {
     id: 2,
-    title: "75th Birthday",
-    description: "ADELLE✨🎀 | On her prep look 👰🏻‍♀️.",
+    title: "💐 75th Birthday – Gale",
+    description: "For Gale’s elegant celebration, I created a light, classic look that highlighted her natural grace and timeless charm. Effortless beauty at any age. 🤍",
     image: "/portfolio/75th-Bday.JPG",
     category: "Birthday",
-    date: "2025-10-01",
+    date: "2025-01-15",
     client: "AINA"
   },
   {
     id: 3,
-    title: "Wedding HMU",
-    description: "Bold and artistic makeup for photoshoots. This dramatic look features strong contours, metallic eyeshadows, and statement lips perfect for editorial photography.",
+    title: "💍 Bride – Alex",
+    description: "A timeless bridal look for Alex — glowing skin, soft eyes, and a natural finish that brought out her elegance and joy on her wedding day. 🤍",
     image: "/portfolio/Bride-1.JPG",
     category: "Wedding",
-    date: "2024-01-10",
+    date: "2024-07-15",
     client: "AINA"
   },
   {
     id: 4,
-    title: "Wedding HMU",
-    description: "Enhancing your natural features for daily wear. This no-makeup makeup look focuses on skin perfection and subtle enhancement for everyday beauty.",
+    title: "💍 Bride – Hannah",
+    description: "For Hannah’s big day, I created a fresh, romantic bridal glam — radiant yet effortless, highlighting her natural glow and sweet personality. 🌷",
     image: "/portfolio/Bride-2.JPG",
     category: "Wedding",
-    date: "2024-01-08",
+    date: "2024-03-25",
     client: "AINA"
   },
   {
     id: 5,
-    title: "Wedding HMU",
-    description: "Stunning makeup perfect for special events. Smokey eyes, glowing skin, and bold lips create an unforgettable evening look that photographs beautifully.",
+    title: "💍 Bride – Kwini",
+    description: "A luminous, natural bridal look for Kwini — enhancing her features with soft glam tones that reflected her calm and graceful aura. ✨",
     image: "/portfolio/Bride-3.JPG",
     category: "Wedding",
-    date: "2024-01-05",
+    date: "2024-06-28",
     client: "AINA"
   },
   {
     id: 6,
-    title: "Wedding HMU",
-    description: "Artistic hairstyle for fashion-forward looks. This intricate updo combines braids, twists, and loose tendrils for a modern yet elegant appearance.",
+    title: "💐 Entourage – Harms",
+    description: "Soft, natural makeup for Harms — glowing skin and subtle touches that perfectly complemented her role in the bridal entourage. 🌸",
     image: "/portfolio/Bride-4.JPG",
     category: "Wedding",
-    date: "2024-01-03",
+    date: "2024-07-12",
     client: "AINA"
   },
   {
     id: 7,
-    title: "Wedding HMU",
-    description: "Artistic hairstyle for fashion-forward looks. This intricate updo combines braids, twists, and loose tendrils for a modern yet elegant appearance.",
+    title: "💍 Bride – Adelle",
+    description: "For Adelle, I created a romantic, fresh bridal look — radiant, timeless, and effortless, capturing her beauty in the most natural way. 🤍",
     image: "/portfolio/Bride-5.JPG",
     category: "Wedding",
-    date: "2024-01-03",
+    date: "2024-09-18",
     client: "AINA"
   },
   {
     id: 8,
-    title: "Wedding HMU",
-    description: "Artistic hairstyle for fashion-forward looks. This intricate updo combines braids, twists, and loose tendrils for a modern yet elegant appearance.",
+    title: "💍 Bride – Kwini",
+    description: "A luminous, natural bridal look for Kwini — enhancing her features with soft glam tones that reflected her calm and graceful aura. ✨",
     image: "/portfolio/Bride-6.JPG",
     category: "Wedding",
-    date: "2024-01-03",
+    date: "2024-06-28",
     client: "AINA"
   },
   {
     id: 9,
-    title: "Graduation HMU",
-    description: "Artistic hairstyle for fashion-forward looks. This intricate updo combines braids, twists, and loose tendrils for a modern yet elegant appearance.",
+    title: "🎓 Graduation – Crizel",
+    description: "A natural and polished makeup look perfect for her graduation day — enhancing her features while keeping everything light, fresh, and camera-ready. ✨",
     image: "/portfolio/Grad-3.JPG",
     category: "Graduation",
-    date: "2024-01-03",
+    date: "2024-04-25",
     client: "AINA"
   },
   {
     id: 10,
-    title: "Graduation HMU",
-    description: "Artistic hairstyle for fashion-forward looks. This intricate updo combines braids, twists, and loose tendrils for a modern yet elegant appearance.",
+    title: "🎓 Graduation – Queenie",
+    description: "A soft glam look that stayed true to Queenie’s natural beauty — clean, glowing skin with subtle touches to celebrate her big achievement beautifully. 🌸",
     image: "/portfolio/Graduation.JPG",
     category: "Graduation",
-    date: "2024-01-03",
+    date: "2024-03-30",
     client: "AINA"
   },
   {
     id: 11,
-    title: "Graduation HMU",
-    description: "Artistic hairstyle for fashion-forward looks. This intricate updo combines braids, twists, and loose tendrils for a modern yet elegant appearance.",
+    title: "🎓 Graduation – Patricia",
+    description: "Soft tones and radiant skin for Patricia’s graduation glam — simple, youthful, and confident, just like this milestone moment. 💕",
     image: "/portfolio/Graduation-2.JPG",
     category: "Graduation",
-    date: "2024-01-03",
+    date: "2024-05-30",
     client: "AINA"
   }
 ];
@@ -163,6 +163,6 @@ export const SOCIAL_LINKS = {
 };
 
 export const CONTACT_INFO = {
-  email: "hello@beautyart.com",
-  phone: "+1 (555) 123-4567"
+  email: "hmuabyaina@gmail.com",
+  phone: "09270747335"
 };
