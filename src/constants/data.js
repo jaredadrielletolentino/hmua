@@ -158,8 +158,8 @@ export const VIDEO_ITEMS = [
 ];
 
 export const SOCIAL_LINKS = {
-  facebook: "#",
-  instagram: "#"
+  facebook: "https://www.facebook.com/hmuabyaina",
+  instagram: "https://www.instagram.com/hmuabyaina/"
 };
 
 export const CONTACT_INFO = {
