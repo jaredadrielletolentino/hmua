@@ -13,7 +13,7 @@ const PortfolioGrid = () => {
       <Section 
         id="portfolio"
         title="Portfolio"
-        subtitle="Explore my latest hair and makeup creations"
+        subtitle="A collection of fresh, natural, and elegant looks — each one created to bring out every client’s true beauty. ✨"
         className="bg-gray-50"
       >
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
