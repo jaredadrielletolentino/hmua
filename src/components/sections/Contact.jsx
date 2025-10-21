@@ -58,8 +58,12 @@ const Contact = () => {
                 <div className="flex items-start space-x-3">
                   <MapPin className="w-5 h-5 text-accent mt-1" />
                   <div>
-                    <p className="font-medium text-gray-900">Location</p>
-                    <p className="text-gray-600">Available for appointments in your area</p>
+                    <p className="font-medium text-gray-900">Service Location & Travel</p>
+                    <p className="text-gray-600">Available for appointments in your area
+                        I provide professional hair and makeup services within Metro Manila and the surrounding areas.
+                        For clients based in Las Piñas City, transportation is free of charge.
+                        For bookings outside Las Piñas, a transportation fee will apply, depending on the location.✨
+                    </p>
                   </div>
                 </div>
               </div>
